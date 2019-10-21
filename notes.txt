@@ -1,0 +1,24 @@
+Page 1: Mountaineering intro
+	Image of random mountains, use url and image tag
+
+
+Page 2: Top 5 mountains
+	Denali
+	Rainier
+	Shasta
+	K2
+	Everest
+
+Page 3: Gear
+	Axe
+	Crampons
+	Tent
+	Shells
+	Harness
+
+
+Page 4: Skills
+
+
+Build a nav bar, have it on all pages..?
+
