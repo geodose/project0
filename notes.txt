@@ -4,6 +4,7 @@ Page 1: Mountaineering intro
 
 Page 2: Top 10 mountains
 add weird unicode character check mark to summited
+use bootstrap cards?
 	white mountain
 	Mount Langley
 	Mount Whitney
