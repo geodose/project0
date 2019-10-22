@@ -2,22 +2,31 @@ Page 1: Mountaineering intro
 	Image of random mountains, use url and image tag
 
 
-Page 2: Top 5 mountains
+Page 2: Top 10 mountains
+add weird unicode character check mark to summited
+	white mountain
+	Mount Langley
+	Mount Whitney
+	Mount Shuksan	
 	Denali
 	Rainier
 	Shasta
 	K2
 	Everest
 
-Page 3: Gear
+Page 3: Skills
 	Axe
 	Crampons
 	Tent
 	Shells
 	Harness
+	5.10+ Rock Climbing
+	Glacier Travel
+	Crevass Rescue
 
 
-Page 4: Skills
+Page 4: Mountaineers of note
+	Reinhold Messner
 
 
 Build a nav bar, have it on all pages..?

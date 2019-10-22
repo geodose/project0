@@ -1,4 +1,10 @@
-h1 {
-  color: #333; }
+body {
+  background-color: #242222; }
+  body h1 {
+    color: #ddd7d7; }
+  body h2 {
+    color: #553; }
+  body p {
+    color: white; }
 
 /*# sourceMappingURL=styles.css.map */
