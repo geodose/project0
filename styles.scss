@@ -1,25 +1,35 @@
 $background: rgb(34, 34, 34);
 $color2: rgb(221, 215, 215);
-$color3: #553;
 $color4: rgb(255, 255, 255);
 $colorNav: rgb(50, 50, 50);
+$high: rgb(50, 175, 50);
+$med: rgb(181, 197, 35);
+$low: rgb(196, 55, 55);
 
 .navbar{
     background-color: $colorNav;
 }
-
+.prof-h{
+    color:$high;
+}
+.prof-m{
+    color:$med;
+}
+.prof-l{
+    color:$low;
+}
 body{
     background-color: $background;
     h1{
         color:$color2;
     }
-    h2{
-        color:$color3;
-        }
     p{
         color:$color4;
     }
     li{
         color:$color4;
     }
+    table{
+        color:$color4;
     }
+}

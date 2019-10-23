@@ -1,15 +1,24 @@
 .navbar {
   background-color: #323232; }
 
+.prof-h {
+  color: #32af32; }
+
+.prof-m {
+  color: #b5c523; }
+
+.prof-l {
+  color: #c43737; }
+
 body {
   background-color: #222222; }
   body h1 {
     color: #ddd7d7; }
-  body h2 {
-    color: #553; }
   body p {
     color: white; }
   body li {
+    color: white; }
+  body table {
     color: white; }
 
 /*# sourceMappingURL=styles.css.map */

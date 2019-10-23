@@ -15,7 +15,7 @@ use bootstrap cards?
 	K2
 	Everest
 
-Page 3: Skills
+Page 3: Skills & Gear
 Use table here. fields - owned, trained, link to buy?
 
 	Axe
@@ -30,7 +30,3 @@ Use table here. fields - owned, trained, link to buy?
 
 Page 4: Mountaineers of note
 	Reinhold Messner
-
-
-Build a nav bar, have it on all pages..?
-
