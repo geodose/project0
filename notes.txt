@@ -16,6 +16,8 @@ use bootstrap cards?
 	Everest
 
 Page 3: Skills
+Use table here. fields - owned, trained, link to buy?
+
 	Axe
 	Crampons
 	Tent
