@@ -35,5 +35,14 @@ body{
     }
     table{
         color:$color4;
+        border-style: solid;
+    }
+    td{
+        color:$color4;
+        border-style: solid;
+        padding: 5px;
+    }
+    th{
+        text-align: center;
     }
 }
